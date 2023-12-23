@@ -1,0 +1,20 @@
+.Form {font-size: large; 
+       color: goldenrod;
+       text-align: center;
+       overflow: hidden;
+       background-color: purple;
+       padding: 30px 15px;}
+
+.Form a {color:goldenrod;
+        text-decoration: none;}
+.btn {background-color:purple;
+        border-color: purple; 
+        color: goldenrod;}
+
+#last-image {align-items:center;}
+
+.jumbotron {color: black;
+            background-size: cover;}
+
+
+
