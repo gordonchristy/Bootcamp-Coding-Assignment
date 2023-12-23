@@ -13,7 +13,8 @@
 
 #last-image {align-items:center;}
 
-.jumbotron {color: black;
+.jumbotron {color: purple;
+            text-transform: capitalize ;
             background-size: cover;}
 
 
